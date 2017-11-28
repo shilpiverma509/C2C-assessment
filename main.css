@@ -1,0 +1,138 @@
+
+#main{
+    margin: 0 auto;
+    padding: 0;
+    width: 980px;
+    font-size: 20px;
+    color:#777;
+    height: 100px;
+}
+
+
+#main div{
+    float: left;
+}
+
+/*-------------------------------*/
+/* fb-main  */
+/*--------------------------------*/
+#main #fb-main h3{
+    font-size: 90%;
+    line-height: 1.2em;
+    letter-spacing: .5px;
+    color:black;
+}
+
+#main #fb-main li .list-items{
+    display: inline-block;
+}
+#main #fb-main li .list-items .icons{
+    float: left;
+}
+
+.icons{
+        color: rgb(80, 80, 184);
+        font-size: 120%;
+        margin-right: 8px;
+        vertical-align: middle;
+        line-height:120%;
+
+}
+#main #fb-main li p{
+    display: inline-block;
+    font-size: 80%;
+}
+
+
+
+#main #fb-main{
+    margin-top:30px;
+    width:590px;
+    text-align: left;
+}
+
+/*-------------------------------*/
+/* sign-up-part  */
+/*--------------------------------*/
+#main #sign-up-part{
+   margin-top: 10px; 
+   width: 390px;
+   text-align: left;   
+   font-size:13px;
+}
+
+#main #sign-up-part h1 {
+    font-size:160%;
+    color: black;
+    margin-bottom:-8px;
+}
+
+
+#main li,a {
+    list-style: none;
+    text-decoration: none;
+}
+
+#sign-up-part form 
+#first-name
+{
+    width: 52.5%;
+}
+#sign-up-part form #last-name
+{
+    width: 45%;
+}
+#sign-up-part form input[type="submit"] {
+    background-color: #69a74e;
+    border: 1px solid green;
+    border-radius:5px;
+    margin-top: 10px;
+    padding: 7px 10px;
+    width: 35%;
+    font-size:15px;
+    color: #fff;
+}
+
+#sign-up-part form input[type="text"]{
+    margin-left: 2px;
+    border:1px solid #bdc7d8;
+    padding: 5px;
+    margin-top:5px;
+    width: 100%;
+    text-align: left;
+    
+}
+
+#sign-up-part form input[type="password"] {
+    margin-left: 2px;
+    border:1px solid #bdc7d8;
+    padding: 5px;
+    margin-top: 5px;
+    width: 52.5%;
+    text-align:left;
+}
+
+#sign-up-part form p{
+    margin-bottom: 5px;
+}
+  #sign-up-part form li select {
+   padding:5px; 
+}
+
+#sign-up-part form a {
+    color: #365899;
+    font-size:13px;
+}
+
+#sign-up-part form li input[type="radio"]{
+    margin-top:10px;
+}
+
+.terms{
+    margin-top:10px;
+}
+
+.create{
+    margin-top:10px;    
+}
+

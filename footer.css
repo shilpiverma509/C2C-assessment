@@ -1,0 +1,36 @@
+.footer{
+    width:100%;
+    float: left;
+    min-width: 990px;
+    margin-top:30px;
+    background-color: #fff;    
+    text-align: left;    
+}
+
+.footer-lang{
+    width:980px;
+    margin: 0 auto;
+    border-bottom: 1px solid rgb(206, 203, 203);
+    line-height: 40px;
+    padding: 0;
+    color:#777;
+
+}
+.footer a:hover{
+    text-decoration: underline;
+}
+
+.promotions{
+    width: 980px;
+    margin: 0 auto;
+    color: #777;
+    line-height: 25px;
+}
+
+.promotions a{
+    display: inline-block;
+    margin: 2px;
+    min-width: 90px;
+    font-size: 15px;
+}
+
